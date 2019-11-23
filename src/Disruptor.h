@@ -1,6 +1,6 @@
 #pragma once
 #include <atomic>
-#include <array>  
+#include <array>
 
 #define CACHELINE_SIZE_BYTES 64
 #define CACHELINE_PADDING_FOR_ATOMIC_INT64_SIZE (CACHELINE_SIZE_BYTES - sizeof(std::atomic_int64_t))

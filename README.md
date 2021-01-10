@@ -8,4 +8,4 @@ include:<br>
 1、two disruptor related headfile;<br>
 2、a ThreadPool with this disruptor for its buffer.<br>
 
-blog:https://blog.csdn.net/weixin_42333737/article/details/103205363
+blog:http://www.liuyukang.com/archives/disruptordoc
